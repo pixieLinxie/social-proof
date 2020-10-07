@@ -1,3 +1,6 @@
+This is my solution to the Frontend Mentor - Social proof section challenge.
+Below are the instructions for the challenge.
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
